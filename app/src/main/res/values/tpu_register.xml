@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="number_of_directions_TPU">32</integer>
+    <string-array name="faculties_tpu">
+        <item>Прикладная математика и информатика (01.03.02)</item>
+        <item>Физика (03.03.02)</item>
+        <item>Экология и природопользование (05.03.06)</item>
+        <item>Информатика и вычислительная техника (09.03.01)</item>
+        <item>Прикладная информатика (09.03.03)</item>
+        <item>Программная инженерия (09.03.04)</item>
+        <item>Электроника и наноэлектроника (11.03.04)</item>
+        <item>Приборостроение (12.03.01)</item>
+        <item>Оптотехника (12.03.02)</item>
+        <item>Биотехнические системы и технологии (12.03.04)</item>
+        <item>Теплоэнергетика и теплотехника (13.03.01)</item>
+        <item>Электроэнергетика и электротехника(13.03.02)</item>
+        <item>Ядерные физика и технологии (14.03.02)</item>
+        <item>Атомные станции: проектирование, эксплуатация и инжиниринг (14.05.02)</item>
+        <item>Электроника и автоматика физических установок (14.05.04)</item>
+        <item>Машиностроение (15.03.01)</item>
+        <item>Автоматизация технологических процессов и производств (15.03.04)</item>
+        <item>Мехатроника и робототехника (15.03.06)</item>
+        <item>Химическая технология (18.03.01)</item>
+        <item>Химическая технология материалов современной энергетики (18.05.02)</item>
+        <item>Биотехнология (19.03.01)</item>
+        <item>Техносферная безопасность (20.03.01)</item>
+        <item>Нефтегазовое дело (21.03.01)</item>
+        <item>Землеустройство и кадастры (21.03.02)</item>
+        <item>Прикладная геология (21.05.02)</item>
+        <item>Технология геологической разведки (21.05.03)</item>
+        <item>Горное дело (21.05.04)</item>
+        <item>Материаловедение и технологии материалов (22.03.01)</item>
+        <item>Металлургия (22.03.02)</item>
+        <item>Инноватика (27.03.05)</item>
+        <item>Агроинженерия (35.03.06)</item>
+        <item>Дизайн (54.03.01)</item>
+    </string-array>
+    <string-array name="linksTpu">
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5879</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5880</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5889</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5904</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5910</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5905</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5884</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5885</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5895</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5886</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5901</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5902</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5881</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5903</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5882</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5897</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5906</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5907</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5890</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5883</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5899</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5912</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5891</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5892</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5893</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5894</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5913</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5900</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5914</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5909</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5915</item>
+        <item>https://apply.tpu.ru/konkurs-detali/view.html?id=5908</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="number_of_directions_TGU">69</integer>
+    <string-array name="faculties_tgu">
+        <item>Математика(01.03.01)</item>
+        <item>Математика и компьютерные науки(02.03.01)</item>
+        <item>Механика и математическое моделирование(01.03.03)</item>
+
+        <item>Математическое обеспечение и администрирование информационных систем(02.03.03)</item>
+        <item>Прикладная информатика(09.03.03)</item>
+        <item>Прикладная математика и информатика(01.03.02)</item>
+        <item>Фундаментальная информатика и информационные технологии(02.03.02)</item>
+        <item>Компьютерная безопасность(10.05.01)</item>
+
+        <item>Лазерная техника и лазерные технологии(12.03.05)</item>
+        <item>Оптотехника(12.03.02)</item>
+        <item>Радиофизика(03.03.03)</item>
+        <item>Фотоника и оптоинформатика(12.03.03)</item>
+        <item>Радиоэлектронные системы и комплексы(11.05.01)</item>
+
+        <item>Информационные системы и технологии(09.03.02)</item>//Физический факультет
+        <item>Физика(03.03.02)</item>
+
+        <item>Химия(04.03.01)</item> // Химический факультет
+        <item>Фундаментальная и прикладная химия(04.05.01)</item>
+
+        <item>География(05.03.02)</item> //Геолого-географический факультет
+        <item>Геология(05.03.01)</item>
+        <item>Гидрометеорология(05.03.04)</item>
+        <item>Экология и природопользование(05.03.06)</item>
+
+        <item>Агрономия(35.03.04)</item> //Институт биологии, экологии, почвоведения, сельского и лесного хозяйства
+        <item>Биология(06.03.01)</item>
+        <item>Ландшафтная архитектура(35.03.10)</item>
+        <item>Лесное дело(35.03.01)</item>
+        <item>Почвоведение(06.03.02)</item>
+        <item>Экология и природопользование(05.03.06)</item>
+
+        <item>Инноватика(27.03.05)</item> //Факультет инновационных технологий
+        <item>Управление качеством(27.03.02)</item>
+
+        <item>Баллистика и гидроаэродинамика(24.03.03)</item> //Физико-технический факультет
+        <item>Мехатроника и робототехника(15.03.06)</item>
+        <item>Прикладная механика(15.03.03)</item>
+        <item>Техническая физика(16.03.01)</item>
+
+        <item>Организация работы с молодёжью(39.03.03)</item> //Факультет психологии
+        <item>Психология(37.03.01)</item>
+        <item>Реклама и связи с общественностью(42.03.01)</item>
+        <item>Клиническая психология(37.05.01)</item>
+
+        <item>Менеджмент(38.03.02)</item> //Институт экономики и менеджмента
+        <item>Управление персоналом(38.03.03)</item>
+        <item>Экономика(38.03.01)</item>
+
+        <item>Социальная работа(39.03.02)</item> //Филосфский факультет
+        <item>Социология(39.03.01)</item>
+        <item>Философия(47.03.01)</item>
+
+        <item>Антропология и этнология(46.03.03)</item> //Факультет исторических и политических наук
+        <item>Документоведение и архивоведение(46.03.02)</item>
+        <item>Зарубежное регионоведение(41.03.01)</item>
+        <item>История(46.03.01)</item> //возможно +2
+        <item>Международные отношения(41.03.05)</item>
+        <item>Политология(41.03.04)</item>
+        <item>Регионоведение России \"Сибирские региональные исследования\"(41.03.02)</item>//возможно +2
+
+        <item>Журналистика(42.03.02)</item> //Факультет журналистики
+
+        <item>Рекреация и спортивно-оздоровительный туризм(49.03.03)</item> //Факультет физической культуры
+        <item>Физическая культура(49.03.01)</item>
+
+        <item>Дизайн(54.03.01)</item> //Институт искусств и культуры
+        <item>Культурология(51.03.01)</item>
+        <item>Музеология и охрана объектов культурного и природного наследия(51.03.04)</item>
+        <item>Педагогическое образование(44.03.01)</item>
+        <item>Графика(54.05.03)</item>
+
+        <item>Издательское дело(42.03.03)</item> //Филологический факультет
+        <item>Филология(45.03.01)</item>
+        <item>Фундаментальная и прикладная лингвистика(45.03.03)</item>
+        <item>Литературное творчество(52.05.04)</item>
+
+        <item>Лингвистика(45.03.02)</item> //Факультет иностранных языков (возможно +1)
+        <item>Перевод и переводоведение(45.05.01)</item>
+        <item>Перевод и переводоведение (УВЦ)(45.05.01)</item>
+
+        <item>Юриспруденция(40.03.01)</item> // Юридический институт (ввозможно +4)
+        <item>Правовое обеспечение национальной безопасности(40.05.01)</item>
+
+        <item>Программная инженерия(09.03.04)</item> //Научно-образовательный центр "Высшая ИТ-школа" (возжомно +1)
+
+        <item>Юриспруденция(40.03.01)(Новосибирский юридический институт, филиал ТГУ)</item>
+
+
+    </string-array>
+    <string-array name="linksTgu">
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=01.03.01_%D0%9E_000248%20%20&amp;l=3&amp;f=1&amp;d=01.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=02.03.01_%D0%9E_000108%20%20&amp;l=3&amp;f=1&amp;d=02.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=01.03.03_%D0%9E_000034%20%20&amp;l=3&amp;f=1&amp;d=01.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=02.03.03_%D0%9E_000188%20%20&amp;l=3&amp;f=2&amp;d=02.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=09.03.03_%D0%9E_000013%20%20&amp;l=3&amp;f=2&amp;d=09.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=01.03.02_%D0%9E_000045%20%20&amp;l=3&amp;f=2&amp;d=01.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=02.03.02_%D0%9E_000021%20%20&amp;l=3&amp;f=2&amp;d=02.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=10.05.01_%D0%9E_000057%20%20&amp;l=4&amp;f=2&amp;d=10.05.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=12.03.05_%D0%9E_000223%20%20&amp;l=3&amp;f=3&amp;d=12.03.05&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=12.03.02_%D0%9E_000186%20%20&amp;l=3&amp;f=3&amp;d=12.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=03.03.03_%D0%9E_000060%20%20&amp;l=3&amp;f=3&amp;d=03.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=12.03.03_%D0%9E_000072%20%20&amp;l=3&amp;f=3&amp;d=12.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=11.05.01_%D0%9E_000065%20%20&amp;l=4&amp;f=3&amp;d=11.05.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=09.03.02_%D0%9E_000166%20%20&amp;l=3&amp;f=4&amp;d=09.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=03.03.02_%D0%9E_000123%20%20&amp;l=3&amp;f=4&amp;d=03.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=04.03.01_%D0%9E_000191%20%20&amp;l=3&amp;f=5&amp;d=04.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=04.05.01_%D0%9E_000151%20%20&amp;l=4&amp;f=5&amp;d=04.05.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=05.03.02_%D0%9E_000007%20%20&amp;l=3&amp;f=6&amp;d=05.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=05.03.01_%D0%9E_000107%20%20&amp;l=3&amp;f=6&amp;d=05.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=05.03.04_%D0%9E_000157%20%20&amp;l=3&amp;f=6&amp;d=05.03.04&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=05.03.06_%D0%9E_000037_%D0%93%D0%93%D0%A4&amp;l=3&amp;f=6&amp;d=05.03.06&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=35.03.04_%D0%9E_000156%20%20&amp;l=3&amp;f=7&amp;d=35.03.04&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=06.03.01_%D0%9E_000037%20%20&amp;l=3&amp;f=7&amp;d=06.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=35.03.10_%D0%9E_000196%20%20&amp;l=3&amp;f=7&amp;d=35.03.10&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=35.03.01_%D0%9E_000103%20%20&amp;l=3&amp;f=7&amp;d=35.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=06.03.02_%D0%9E_000099%20%20&amp;l=3&amp;f=7&amp;d=06.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=05.03.06_%D0%9E_000037_%D0%91%D0%98&amp;l=3&amp;f=7&amp;d=05.03.06&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=27.03.05_%D0%97_000115%20%20&amp;l=3&amp;f=8&amp;d=27.03.05&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=27.03.02_%D0%97_000117%20%20&amp;l=3&amp;f=8&amp;d=27.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=24.03.03_%D0%9E_000029%20%20&amp;l=3&amp;f=9&amp;d=24.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=15.03.06_%D0%9E_000095%20%20&amp;l=3&amp;f=9&amp;d=15.03.06&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=15.03.03_%D0%9E_000087%20%20&amp;l=3&amp;f=9&amp;d=15.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=16.03.01_%D0%9E_000090%20%20&amp;l=3&amp;f=9&amp;d=16.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=39.03.03_%D0%9E_000203%20%20&amp;l=3&amp;f=10&amp;d=39.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=37.03.01_%D0%9E_000022%20%20&amp;l=3&amp;f=10&amp;d=37.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=42.03.01_%D0%9E_000063%20%20&amp;l=3&amp;f=10&amp;d=42.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=37.05.01_%D0%9E_000137%20%20&amp;l=4&amp;f=10&amp;d=37.05.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=38.03.02_%D0%9E_000038%20%20&amp;l=3&amp;f=11&amp;d=38.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=38.03.03_%D0%9E_000068%20%20&amp;l=3&amp;f=11&amp;d=38.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=38.03.01_%D0%9E_000016%20%20&amp;l=3&amp;f=11&amp;d=38.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=39.03.02_%D0%9E_000121%20%20&amp;l=3&amp;f=12&amp;d=39.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=39.03.01_%D0%9E_000227%20%20&amp;l=3&amp;f=12&amp;d=39.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=47.03.01_%D0%9E_000183%20%20&amp;l=3&amp;f=12&amp;d=47.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=46.03.03_%D0%9E_000220%20%20&amp;l=3&amp;f=13&amp;d=46.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=46.03.02_%D0%9E_000160%20%20&amp;l=3&amp;f=13&amp;d=46.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=41.03.01_%D0%9E_000162%20%20&amp;l=3&amp;f=13&amp;d=41.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=46.03.01_%D0%9E_000050%20%20&amp;l=3&amp;f=13&amp;d=46.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=41.03.05_%D0%9E_000005%20%20&amp;l=3&amp;f=13&amp;d=41.03.05&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=41.03.04_%D0%9E_000211%20%20&amp;l=3&amp;f=13&amp;d=41.03.04&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=41.03.02_%D0%9E_000263%20%20&amp;l=3&amp;f=13&amp;d=41.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=42.03.02_%D0%9E_000110%20%20&amp;l=3&amp;f=14&amp;d=42.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=49.03.03_%D0%9E_000200%20%20&amp;l=3&amp;f=15&amp;d=49.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=49.03.01_%D0%9E_000086%20%20&amp;l=3&amp;f=15&amp;d=49.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=54.03.01_%D0%9E_000134%20%20&amp;l=3&amp;f=16&amp;d=54.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=51.03.01_%D0%9E_000222%20%20&amp;l=3&amp;f=16&amp;d=51.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=51.03.04_%D0%9E_000205%20%20&amp;l=3&amp;f=16&amp;d=51.03.04&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=44.03.01_%D0%9E_00000167&amp;l=3&amp;f=16&amp;d=44.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=54.05.03_%D0%9E_000231%20%20&amp;l=4&amp;f=16&amp;d=54.05.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=42.03.03_%D0%9E_000209%20%20&amp;l=3&amp;f=30&amp;d=42.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=45.03.01_%D0%9E_000127%20%20&amp;l=3&amp;f=30&amp;d=45.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=45.03.03_%D0%9E_000230%20%20&amp;l=3&amp;f=30&amp;d=45.03.03&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=52.05.04_%D0%9E_000172%20%20&amp;l=4&amp;f=30&amp;d=52.05.04&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=45.03.02_%D0%9E_00000217&amp;l=3&amp;f=31&amp;d=45.03.02&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=45.05.01_%D0%9E_00000197&amp;l=4&amp;f=31&amp;d=45.05.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=45.05.01_%D0%9E_00000197_%D0%A3%D0%92%D0%A6&amp;l=4&amp;f=31&amp;d=45.05.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=40.03.01_%D0%97_000019_2%D0%92%D0%AB%D0%A1%D0%A8&amp;l=3&amp;f=32&amp;d=40.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=40.05.01_%D0%97_00000127&amp;l=4&amp;f=32&amp;d=40.05.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=09.03.04_%D0%9E_000247%20%20&amp;l=3&amp;f=34&amp;d=09.03.04&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+        <item>http://abiturient.tsu.ru/rating?fp=1&amp;p=40.03.01_%D0%9E_%D0%91_00000145&amp;l=3&amp;f=36&amp;d=40.03.01&amp;b=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&amp;ef=1</item>
+
+    </string-array>
+</resources>

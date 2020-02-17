@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="number_of_directions_TUSUR">34</integer>
+    <string-array name="nameFaculties">
+        <item>Экология и природопользование (05.03.06)</item>
+        <item>Информатика и вычислительная техника (09.03.01)</item>
+        <item>Информационные системы и технологии (09.03.02)</item>
+        <item>Прикладная информатика (09.03.03)</item>
+        <item>Программная инженерия (09.03.04)</item>
+        <item>Информационная безопасность (10.03.01)</item>
+        <item>Информационная безопасность телекоммуникационных систем (10.05.02)</item>
+        <item>Информационная безопасность автоматизированных систем (10.05.03)</item>
+        <item>Информационно-аналитические системы безопасности (10.05.04)</item>
+        <item>Радиотехника (11.03.01)</item>
+        <item>Инфокоммуникационные технологии и системы связи (11.03.02)</item>
+        <item>Конструирование и технология электронных средств (11.03.03)</item>
+        <item>Электроника и наноэлектроника (11.03.04)</item>
+        <item>Радиоэлектронные системы и комплексы (11.05.01)</item>
+        <item>Фотоника и оптоинформатика (12.03.03)</item>
+        <item>Автоматизация технологических процессов и производств (15.03.04)</item>
+        <item>Мехатроника и робототехника (15.03.06)</item>
+        <item>Техносферная безопасность (20.03.01)</item>
+        <item>Техническая эксплуатация транспортного радиооборудования (25.05.03)</item>
+        <item>Управление качеством (27.03.02)</item>
+        <item>Системный анализ и управление (27.03.03)</item>
+        <item>Управление в технических системах (27.03.04)</item>
+        <item>Инноватика (27.03.05)</item>
+        <item>Нанотехнологии и микросистемная техника (28.03.01)</item>
+        <item>Экономика (38.03.01)</item>
+        <item>Менеджмент (38.03.02)</item>
+        <item>Управление персоналом (38.03.03)</item>
+        <item>Государственное и муниципальное управление (38.03.04)</item>
+        <item>Бизнес-информатика (38.03.05)</item>
+        <item>Экономическая безопасность (38.05.01)</item>
+        <item>Социальная работа (39.03.02)</item>
+        <item>Организация работы с молодежью (39.03.03)</item>
+        <item>Юриспруденция (40.03.01)</item>
+        <item>Сервис (43.03.01)</item>
+    </string-array>
+    <string-array name="linkFaculties">
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-05-03-06-ekologiya-i-prirodopolzovanie-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-09-03-01-informatika-i-vychislitelnaya-tehnika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-09-03-02-informatsionnye-sistemy-i-tehnologii-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-09-03-03-prikladnaya-informatika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-09-03-04-programmnaya-inzheneriya-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-10-03-01-informatsionnaya-bezopasnost-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-10-05-02-informatsionnaya-bezopasnost-telekommunikatsionnyh-sistem-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-10-05-03-informatsionnaya-bezopasnost-avtomatizirovannyh-sistem-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-10-05-04-informatsionno-analiticheskie-sistemy-bezopasnosti-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-11-03-01-radiotehnika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-11-03-02-infokommunikatsionnye-tehnologii-i-sistemy-svyazi-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-11-03-03-konstruirovanie-i-tehnologiya-elektronnyh-sredstv-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-11-03-04-elektronika-i-nanoelektronika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-11-05-01-radioelektronnye-sistemy-i-kompleksy-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-12-03-03-fotonika-i-optoinformatika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-15-03-04-avtomatizatsiya-tehnologicheskih-protsessov-i-proizvodstv-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-15-03-06-mehatronika-i-robototehnika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-20-03-01-tehnosfernaya-bezopasnost-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-25-05-03-tehnicheskaya-ekspluatatsiya-transportnogo-radiooborudovaniya-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-27-03-02-upravlenie-kachestvom-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-27-03-03-sistemnyy-analiz-i-upravlenie-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-27-03-04-upravlenie-v-tehnicheskih-sistemah-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-27-03-05-innovatika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-28-03-01-nanotehnologii-i-mikrosistemnaya-tehnika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-38-03-01-ekonomika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-38-03-02-menedzhment-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-38-03-03-upravlenie-personalom-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-38-03-04-gosudarstvennoe-i-munitsipalnoe-upravlenie-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-38-03-05-biznes-informatika-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-38-05-01-ekonomicheskaya-bezopasnost-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-39-03-02-sotsialnaya-rabota-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-39-03-03-organizatsiya-raboty-s-molodezhyu-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-40-03-01-yurisprudentsiya-fulltime?with_original=true</item>
+        <item>https://abiturient.tusur.ru/ru/lists/ochnaya-forma-obucheniya/2019-43-03-01-servis-fulltime?with_original=true</item>
+    </string-array>
+</resources>
